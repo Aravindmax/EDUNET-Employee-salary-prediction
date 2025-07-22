@@ -10,3 +10,5 @@ Python Libraries Needed :
 Use following commands in cmd to install:
 
 pip install scikit-learn joblib pandas streamlit
+
+TO RUN : run the salary_prediction.ipynb file
